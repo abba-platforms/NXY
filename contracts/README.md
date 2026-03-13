@@ -19,20 +19,20 @@ This repository therefore serves as documentation of the protocol architecture a
 
 ### NXY Protocol Contract Modules
 
-**Core Contract**
+**Core Contract**     
 NairaIndexNXY
 
-**Validation Layer**
+**Validation Layer**     
 OraclePolicyModule
 
-**Publication Layer**
+**Publication Layer**      
 PublicationManager
 
-**Compliance Layer**
+**Compliance Layer**         
 ComplianceModule
 
-**Data Access Layer**
+**Data Access Layer**       
 AnalyticalLens
 
-**Governance Layer**
+**Governance Layer**        
 TimelockController
