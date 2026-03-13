@@ -9,9 +9,115 @@ Versioning follows a semantic-style documentation versioning approach.
 
 ------------------------------------------------------------
 
-## [1.0.0] — Initial Institutional Documentation Release
+## v1.0.0 — 2026-03-13
+Status: Initial Public Documentation Release
 
-Date: 2026
+------------------------------------------------------------
+
+### Added
+
+Repository documentation framework describing the architecture, methodology, governance, and macroeconomic context of the NXY benchmark protocol.
+
+The following documents were introduced:
+
+README.md  
+Protocol overview and repository landing documentation.
+
+WHITEPAPER.md  
+Comprehensive explanation of the NXY benchmark architecture, methodology, and protocol design.
+
+ARCHITECTURE.md  
+Technical description of the smart contract architecture and protocol interaction flows.
+
+METHODOLOGY.md  
+Formal benchmark calculation methodology referencing the Nigerian Naira relative to the US Dollar Index (DXY).
+
+GOVERNANCE.md  
+Description of the protocol governance framework and timelock-controlled administrative system.
+
+ECONOMIC_ANALYSIS.md  
+Macroeconomic context describing the Nigerian currency environment and potential benchmark adoption scenarios.
+
+DISCLAIMER.md  
+Legal and operational disclaimer defining the scope and limitations of the NXY benchmark protocol.
+
+LICENSE.md  
+Open-source licensing terms governing the repository.
+
+------------------------------------------------------------
+
+### Contracts Documentation
+
+Introduced the contracts directory documenting the smart contract architecture of the NXY protocol.
+
+contracts/README.md  
+Overview of the modular smart contract architecture and contract responsibilities.
+
+Documented protocol module structure:
+
+Core Contract  
+NairaIndexNXY
+
+Validation Layer  
+OraclePolicyModule
+
+Publication Layer  
+PublicationManager
+
+Compliance Layer  
+ComplianceModule
+
+Data Access Layer  
+AnalyticalLens
+
+Governance Layer  
+TimelockController
+
+------------------------------------------------------------
+
+### Core Contract Reference
+
+Added a redacted reference implementation of the core protocol contract.
+
+contracts/NairaIndexNXY.sol.md
+
+The contract documents the operational structure of the NXY protocol while intentionally omitting certain supporting modules in order to protect proprietary implementation details.
+
+A notice was added to clarify that the repository version of the contract represents an architectural reference rather than a complete deployable implementation.
+
+The canonical operational implementation remains the deployed smart contract system on BNB Smart Chain.
+
+------------------------------------------------------------
+
+### Documentation Improvements
+
+Expanded the repository documentation to provide a complete architectural overview of the NXY benchmark protocol.
+
+Added protocol architecture diagrams describing the interaction between oracle validation, benchmark publication, compliance enforcement, and governance control.
+
+Added mainnet deployment documentation including contract addresses and component descriptions.
+
+Added repository structure documentation to clarify the relationship between protocol documentation and smart contract modules.
+
+------------------------------------------------------------
+
+### Protocol Context
+
+Documented the economic context in which the NXY benchmark operates, including reference indicators for the Nigerian currency system such as:
+
+Broad money supply (M2)  
+Foreign exchange turnover  
+Foreign exchange reserves  
+Nominal GDP
+
+These indicators provide macroeconomic context for the benchmark environment referenced by the protocol.
+
+------------------------------------------------------------
+
+
+## [1.0.0] — 2026-03-13
+
+### Initial Institutional Documentation Release
 
 This release establishes the first complete institutional documentation framework for the Naira Index (NXY) protocol.
 
