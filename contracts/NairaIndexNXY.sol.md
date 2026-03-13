@@ -1,7 +1,14 @@
-# IMPORTANT NOTICE:
-This file represents a partially redacted version of the production contract.
-Certain internal components have been removed to protect proprietary implementation details.
-The deployed contract bytecode on BNB Smart Chain remains the canonical reference implementation.
+## NOTE
+
+This file documents the core contract of the Naira Index (NXY) protocol.
+
+Certain supporting contracts required for protocol operation are not included in this repository in order to protect proprietary implementation details.
+
+The canonical implementation of the NXY protocol is the deployed contract on BNB Smart Chain.
+
+The repository version serves as an architectural reference rather than a complete deployable contract system.
+
+---
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
