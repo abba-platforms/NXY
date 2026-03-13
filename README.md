@@ -474,6 +474,131 @@ Deployment details and contract addresses are documented within the repository.
 
 ------------------------------------------------------------
 
+------------------------------------------------------------
+
+## Tokenomics
+
+The NXY protocol includes a fixed supply utility token designed to support benchmark ecosystem development, protocol sustainability, and market distribution.
+
+Maximum Supply
+
+```
+100,000,000,000 NXY
+```
+
+The token supply is permanently fixed. No additional tokens may be minted beyond the maximum supply.
+
+------------------------------------------------------------
+
+## Token Allocation
+
+The total supply is distributed across ecosystem development, exchange distribution, treasury reserves, and liquidity provisioning.
+
+```
+Category                       Allocation        Tokens
+----------------------------------------------------------------
+Centralized Exchange (CEX)       35%        35,000,000,000 NXY
+Founding Team & Staff            25%        25,000,000,000 NXY
+Strategic Investors              20%        20,000,000,000 NXY
+Protocol Treasury                15%        15,000,000,000 NXY
+Liquidity Provision               5%         5,000,000,000 NXY
+----------------------------------------------------------------
+Total                           100%       100,000,000,000 NXY
+```
+
+------------------------------------------------------------
+
+## Token Distribution Structure
+
+```
+                         NXY Token Supply
+                     100,000,000,000 Tokens
+
+
+                           +----------+
+                           | Treasury |
+                           |   20%    |
+                           +----------+
+
++-------------------+                      +-------------------+
+|   Founding Team   |                      | Strategic Inv.    |
+|        25%        |                      |        15%        |
++-------------------+                      +-------------------+
+
+                           +----------+
+                           |Liquidity |
+                           |    5%    |
+                           +----------+
+
+                        +----------------+
+                        |  CEX Listing   |
+                        |      35%       |
+                        +----------------+
+```
+
+------------------------------------------------------------
+
+## Token Utility
+
+The NXY token functions as an ecosystem coordination and infrastructure token supporting the broader NXY benchmark environment.
+
+**Potential utility areas include:**
+
+Benchmark Infrastructure
+
+Supporting infrastructure services connected to the NXY benchmark ecosystem.
+
+Protocol Governance Participation
+
+Participation in governance decisions affecting protocol parameters, oracle policies, and methodology updates.
+
+Liquidity and Market Infrastructure
+
+Providing liquidity support for exchange listings and benchmark-related trading pairs.
+
+Ecosystem Development
+
+Funding ecosystem tools, analytics platforms, research infrastructure, and benchmark integrations.
+
+Institutional Integrations
+
+Supporting integrations with financial platforms, analytical systems, and programmable financial infrastructure referencing the NXY benchmark.
+
+------------------------------------------------------------
+
+## Token Vesting Structure
+
+To align long-term incentives and maintain market stability, token allocations may follow structured vesting schedules.
+
+Example vesting structure:
+
+```
+Category                  Vesting Model
+------------------------------------------------
+Founding Team             Multi-year vesting
+Strategic Investors       Structured vesting
+Treasury                  Governance-controlled
+CEX Distribution          Market distribution
+Liquidity                 Immediate provisioning
+```
+
+Vesting schedules ensure that ecosystem participants remain aligned with the long-term development of the protocol.
+
+------------------------------------------------------------
+
+## Supply Characteristics
+
+```
+Maximum Supply        100,000,000,000 NXY
+Minting Capability    None
+Inflation Rate        0%
+Supply Model          Fixed Supply
+```
+
+The token supply is permanently capped and cannot be expanded.
+
+------------------------------------------------------------
+
 ## Economic Context
 
 The NXY benchmark operates within the macro-financial environment of the Nigerian currency system.
