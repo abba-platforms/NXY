@@ -16,3 +16,23 @@ Researchers and observers may independently verify deployed contract behavior th
 This repository therefore serves as documentation of the protocol architecture and methodology rather than a complete reproduction of the production smart contract source code.
 
 ------------------------------------------------------------
+
+### NXY Protocol Contract Modules
+
+**Core Contract**
+NairaIndexNXY
+
+**Validation Layer**
+OraclePolicyModule
+
+**Publication Layer**
+PublicationManager
+
+**Compliance Layer**
+ComplianceModule
+
+**Data Access Layer**
+AnalyticalLens
+
+**Governance Layer**
+TimelockController
