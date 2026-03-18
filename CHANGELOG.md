@@ -9,9 +9,40 @@ Versioning follows a semantic-style documentation versioning approach.
 
 ------------------------------------------------------------
 
-## v1.0.1 — 2026-03-18
+## v1.0.2 — 2026-03-18
+
+### Added
+
+Expanded the NXY initial market structure and pricing framework with additional institutional sections supporting exchange readiness, investor clarity, and market integrity.
+
+The following sections were added:
+
+Circulating Supply Composition  
+Defines the origin of the initial 5 percent circulating supply and clarifies that founding, strategic, and treasury allocations are excluded at launch.
+
+Vesting and Lock-Up Policy  
+Introduces vesting and lock-up controls for founding, strategic, and treasury allocations to reduce early supply pressure and support long-term alignment.
+
+Token Release Schedule  
+Defines the controlled release of tokens beyond the initial circulating supply to support orderly market development.
+
+Market Maker and Liquidity Policy  
+Documents the role of designated liquidity and market-making arrangements in supporting price discovery and exchange stability.
+
+Exchange Listing Strategy  
+Outlines the intended listing approach across centralized and decentralized exchanges, including staged onboarding and liquidity support.
+
+Treasury Policy  
+Defines the intended function of the protocol treasury in supporting ecosystem development, infrastructure funding, and operational sustainability.
+
+Risk Factors  
+Introduces a structured summary of the principal market, technical, liquidity, regulatory, and adoption risks associated with the NXY token and benchmark system.
+
+These additions strengthen the institutional completeness of the NXY token market structure documentation and align the repository more closely with exchange, investor, and benchmark infrastructure expectations.
 
 ------------------------------------------------------------
+
+## v1.0.1 — 2026-03-18
 
 ### Added
 
@@ -34,8 +65,6 @@ The document formalizes version control practices across the repository and alig
 
 ## v1.0.0 — 2026-03-13
 Status: Initial Public Documentation Release
-
-------------------------------------------------------------
 
 ### Added
 
