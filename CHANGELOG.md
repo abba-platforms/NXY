@@ -9,6 +9,29 @@ Versioning follows a semantic-style documentation versioning approach.
 
 ------------------------------------------------------------
 
+## v1.0.1 — 2026-03-18
+
+------------------------------------------------------------
+
+### Added
+
+VERSIONING.md
+
+Introduced a structured versioning framework based on semantic versioning (MAJOR.MINOR.PATCH) for the NXY protocol repository.
+
+The versioning policy defines:
+
+Version component classification (MAJOR, MINOR, PATCH)  
+Methodology version binding for benchmark reproducibility  
+Backward compatibility rules preserving historical index integrity  
+Release classification across documentation, protocol, and smart contracts  
+Smart contract versioning separation for upgradeable architectures  
+On-chain version identification for independent verification  
+
+The document formalizes version control practices across the repository and aligns the NXY protocol with institutional standards for benchmark governance, transparency, and reproducibility.
+
+------------------------------------------------------------
+
 ## v1.0.0 — 2026-03-13
 Status: Initial Public Documentation Release
 
